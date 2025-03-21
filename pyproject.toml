@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "heisenberg"
+name = "qupie"
 version = "0.0.1"
 authors = [
   { name="James Nelson", email="janelson@tcd.ie" },
